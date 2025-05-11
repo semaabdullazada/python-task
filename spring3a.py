@@ -1,4 +1,3 @@
-# 1) x dəyişəni verilmişdir. Əgər x > 0 olarsa "müsbət", x < 0 olarsa "mənfi", bərabərdirsə "sıfır" çap etsin.
 x = 5
 if x > 0:
     print("müsbət")
